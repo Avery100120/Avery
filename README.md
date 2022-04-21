@@ -1,2 +1,1 @@
-# Avery
-Covid-19 Vaccines are worth the risk
+Covid-19 vaccines are worth the risk
